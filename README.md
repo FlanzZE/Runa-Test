@@ -1,6 +1,6 @@
 Runa-Test
 #Considerations
-Make sure the main folder has write an d read privileges 
+Make sure the main folder has write and read privileges 
 
 #Install 
 Run in the console command 'npm install'
