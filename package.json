@@ -1,0 +1,29 @@
+{
+  "name": "runa-test",
+  "version": "0.1.0",
+  "private": true,
+  "devDependencies": {
+    "react-scripts": "^2.0.5"
+  },
+  "dependencies": {
+    "node-sass": "^4.9.4",
+    "react": "^15.6.2",
+    "react-bootstrap": "^0.30.10",
+    "react-dom": "^15.4.2",
+    "react-router-dom": "^4.3.1",
+    "redux": "^4.0.1",
+    "webpack": "4.19.1"
+  },
+  "scripts": {
+    "dev": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}

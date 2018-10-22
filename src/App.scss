@@ -1,0 +1,9 @@
+.shop {
+  position: fixed;
+  right: 0;
+  .table {
+    overflow: auto;
+    height: 70vh;
+    display: block;
+  }
+}
